@@ -1,0 +1,1 @@
+package automationCore; public class ExtentReport { public static Object test; }
